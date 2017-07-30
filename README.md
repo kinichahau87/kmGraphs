@@ -1,11 +1,7 @@
 "#jqueryPluginGraph" 
 
-``js
+EXAMPLE USAGE
 
-/** 
-EXAMPLE USAGE BELOW 
-**/ 
-/** 
 $(function(){ 
 	 
  	var yAxis = { 
@@ -27,6 +23,6 @@ $(function(){
 	//var lineTest = $("#drawBoard").KmGraphs(yAxis, xAxis, myData, options).drawBarGraph(); 
  	 
  	 
-}); **/
-`` 
+});
+
 
